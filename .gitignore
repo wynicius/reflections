@@ -1,0 +1,60 @@
+# Ignore Visual Studio temporary files, build results, and
+# common node modules folders.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the following files
+# *.log
+# *.tlog
+# *.wrn
+# *.err
+# *.out
+# *.appx
+# *.appxsym
+# *.appxupload
+# *.appxbundle
+# *.appxbundleupload
+# *.msix
+# *.msixsym
+# *.msixupload
+# *.msixbundle
+# *.msixbundleupload
+
+# Include if you have NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# Include if you have Node.js dependencies
+node_modules/
+
+# Include if you have Bower dependencies
+bower_components/
+
+# Include if you have Yarn dependencies
+.yarn/
+.pnp.*
